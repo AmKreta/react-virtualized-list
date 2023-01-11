@@ -1,0 +1,48 @@
+.user-card-container{
+    border:1px solid #ccc;
+    width:500px;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    border-radius:8px;
+    box-shadow:0 0 3px #ccc;
+    margin:0 auto;
+}
+
+.user-details{
+    margin-left:8px;
+    padding-right:8px;
+    text-align:left;
+    text-overflow:ellipsis;
+    overflow:hidden;
+    flex-grow:1;
+}
+
+.user-details>div{
+    display:flex;
+    align-items:center;
+    flex-wrap:nowrap;
+    margin:2px 0;
+}
+
+.user-details>div>svg{
+    margin-right:8px;
+    color:#999;
+}
+
+.user-details>div>span{
+    flex-grow:1;
+    overflow:hidden;
+    white-space:nowrap;
+    color:#333;
+}
+
+.name-container{
+    font-size:1.2em;
+    font-weight:bold;
+    color:#333;
+    margin-bottom:4px;
+    position:relative;
+    bottom:2px;
+    display:block !important;
+}
