@@ -7,3 +7,6 @@ implement list virtualization in react
 
 
 [click here to view demo](https://www.linkedin.com/posts/kumar-amresh-1017a7161_virtualizedlist-reactjs-javascript-activity-7018817785212375040-H6P-?utm_source=share&utm_medium=member_desktop)
+
+
+[Explaination of the code ](https://www.youtube.com/watch?v=3v5ZakL26jM&ab_channel=KumarAmresh)
